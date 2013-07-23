@@ -17,7 +17,7 @@
     h - go to previous photo
     l - go to next photo
     n - hide property from showing up again.
-    s - to save property details to localStorage
+    s - save property under Account > My Homes
 
 <img src='/images/results.png?raw=true' width='300px' />
 
